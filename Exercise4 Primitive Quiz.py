@@ -1,21 +1,21 @@
 #Exercise 4: Primitive Quiz
 
-Question = input("What is the capital of France? ")
-if Question.lower()== "Paris".lower():
+Question = input("What is the capital of France? ") #asking user to input the capital of France
+if Question.lower()== "Paris".lower(): #using if-else statement as there is more than one condition 
     print("Your answer is CORRECT","Well done!")
 else:
     print("Your answer is WRONG!")    
 
 
 #Advanced Requirements:
-name = (input("Enter your name here! "))
+name = (input("Enter your name here! ")) #asking user to input their name.
 print("Hello!",name, " Welcome to a small quizz,","let's Answer the Capitals of 10 Europian Countries") 
 
 
 print("Question 1") 
 
 Question1 = input("What is the capital of United Kingdom? ")
-if Question1.lower()== "london".lower():
+if Question1.lower()== "london".lower(): #using .lower() so that all upper case will be converted to lower case
     print("Your answer is CORRECT","Impressive")
 else:
     print("Your answer is WRONG!") 

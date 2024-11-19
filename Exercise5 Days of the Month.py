@@ -17,7 +17,7 @@ days_of_the_months = {
 }
 
 #Asking the user to input the month number
-month = int(input("Enter a month number: "))
+month = int(input("Enter a month number: ")) #asking user to input a month number.
 if month in days_of_the_months:   #using if-else statement as there is more than one condition.
     print("There are", days_of_the_months[month], "Days in month",month)
 else:    

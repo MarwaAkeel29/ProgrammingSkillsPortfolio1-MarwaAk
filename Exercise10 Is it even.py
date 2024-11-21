@@ -1,5 +1,4 @@
 #Exercise 10: Is it even?
-
 def Even_Or_Odd(Number):
     if Number == 0:
         return f"{Number} is neutral number but particularly comes under Even number"

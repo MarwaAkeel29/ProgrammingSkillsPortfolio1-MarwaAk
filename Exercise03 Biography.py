@@ -12,7 +12,7 @@ for key, value in informaion.items(): #Using for function and key-value pairs.
 
 
 #Advanced Requirements:
-name = input("Enter your Name: ") #asking user to input their name.
+name = input("Enter your First and Last Name: ") #asking user to input their first and last name, therefore python's Input() statement can handle multiple words. 
 hometown = input("Enter your Hometown: ") #asking user to input their hometown.
 age = input("Enter your Age: ") #asking user to input their age (incase if the user enters string value for age, it is acceptable.)
 

@@ -2,18 +2,18 @@
 
 #Creaing a dictionary where the keys are month numbers and the values are the number of days in those months.
 days_of_the_months = {
-    1:31,
-    2:29,
-    3:31,
-    4:30,
-    5:31,
-    6:30,
-    7:31,
-    8:31,
-    9:30,
-    10:31,
-    11:30,
-    12:31
+    1:31, #Jan
+    2:29, #Feb
+    3:31, #Mar
+    4:30, #Apr
+    5:31, #May
+    6:30, #June
+    7:31, #July
+    8:31, #Aug
+    9:30, #Sep
+    10:31,#Oct
+    11:30,#Nov
+    12:31 #Dec
 }
 
 #Asking the user to input the month number

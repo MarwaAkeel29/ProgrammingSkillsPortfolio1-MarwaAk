@@ -103,5 +103,5 @@ else:
     print("Your answer is WRONG!","try again!")
 
 print("well done!!! quiz completed!!!")
-print(f"Your final score is {points}/10") #this will display the final points.
+print(f"Your total points are {points}/10") #this will display the final points.
 

@@ -6,6 +6,6 @@ def main():
     hello() #Calling the  hello() function
 
 if __name__ == "__main__":
-    main()    
+    main()  #this will execute the main function
     
      
